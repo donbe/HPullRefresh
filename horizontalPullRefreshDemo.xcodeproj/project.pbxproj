@@ -24,7 +24,7 @@
 		824F8D3C169A8AB8004E048E /* pull_right@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 824F8D3A169A8AB8004E048E /* pull_right@2x.png */; };
 		824F8D3E169A8B68004E048E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 824F8D3D169A8B68004E048E /* QuartzCore.framework */; };
 		824F8D48169A975C004E048E /* QQ20130107-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 824F8D47169A975C004E048E /* QQ20130107-1.png */; };
-		824F8D4B169A9A54004E048E /* 1BF565C3-F80E-4B32-9004-8E0AC720FF33.png in Resources */ = {isa = PBXBuildFile; fileRef = 824F8D4A169A9A54004E048E /* 1BF565C3-F80E-4B32-9004-8E0AC720FF33.png */; };
+		824F8D51169AA88B004E048E /* HPullRefresh.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 824F8D50169AA88B004E048E /* HPullRefresh.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,7 +51,7 @@
 		824F8D3A169A8AB8004E048E /* pull_right@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pull_right@2x.png"; sourceTree = "<group>"; };
 		824F8D3D169A8B68004E048E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		824F8D47169A975C004E048E /* QQ20130107-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QQ20130107-1.png"; sourceTree = "<group>"; };
-		824F8D4A169A9A54004E048E /* 1BF565C3-F80E-4B32-9004-8E0AC720FF33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1BF565C3-F80E-4B32-9004-8E0AC720FF33.png"; sourceTree = "<group>"; };
+		824F8D50169AA88B004E048E /* HPullRefresh.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HPullRefresh.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +72,7 @@
 		824F8D00169A8A65004E048E = {
 			isa = PBXGroup;
 			children = (
+				824F8D50169AA88B004E048E /* HPullRefresh.podspec */,
 				824F8D35169A8A72004E048E /* horizontalPullRefresh */,
 				824F8D15169A8A65004E048E /* horizontalPullRefreshDemo */,
 				824F8D0E169A8A65004E048E /* Frameworks */,
@@ -101,7 +102,6 @@
 		824F8D15169A8A65004E048E /* horizontalPullRefreshDemo */ = {
 			isa = PBXGroup;
 			children = (
-				824F8D4A169A9A54004E048E /* 1BF565C3-F80E-4B32-9004-8E0AC720FF33.png */,
 				824F8D47169A975C004E048E /* QQ20130107-1.png */,
 				824F8D1E169A8A65004E048E /* AppDelegate.h */,
 				824F8D1F169A8A65004E048E /* AppDelegate.m */,
@@ -199,7 +199,7 @@
 				824F8D3B169A8AB8004E048E /* pull_right.png in Resources */,
 				824F8D3C169A8AB8004E048E /* pull_right@2x.png in Resources */,
 				824F8D48169A975C004E048E /* QQ20130107-1.png in Resources */,
-				824F8D4B169A9A54004E048E /* 1BF565C3-F80E-4B32-9004-8E0AC720FF33.png in Resources */,
+				824F8D51169AA88B004E048E /* HPullRefresh.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
