@@ -6,6 +6,10 @@ horizontal PullRefresh
 <img src="https://raw.github.com/donbe/HPullRefresh/master/horizontalPullRefreshDemo/1BF565C3-F80E-4B32-9004-8E0AC720FF33.png" alt="HPullRefresh" title="HPullRefresh" style="display:block; margin: 10px auto 30px auto;" class="center">
 <img src="https://raw.github.com/donbe/HPullRefresh/master/horizontalPullRefreshDemo/QQ20130107-1.png" alt="HPullRefresh" title="HPullRefresh" style="display:block; margin: 10px auto 30px auto;" class="center">
 
+# Install
+You can use cocoapod install to you project.
+or
+drag horizontalPullRefresh folder to you project ,and add the QuartzCore.framework.
 
 # How To Use
 just a line code...
@@ -33,4 +37,6 @@ QuartzCore.framework
 
 
 # Contact
-[归先人](http://weibo.com/donbe)
+[WeiBo](http://weibo.com/donbe)
+[Twitter](https://twitter.com/donbe520)
+
