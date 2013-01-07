@@ -8,6 +8,8 @@ horizontal PullRefresh
 
 # How To Use
 just a line code...
+
+``` objective-c
     __block id blockself = self;
     [scrollview setContentSize:CGSizeMake(scrollview.bounds.size.width+1, scrollview.bounds.size.height)];
     [scrollview addHPullRefresh:^{
@@ -15,7 +17,8 @@ just a line code...
     }];
     
     [scrollview startLoading];
-    
+```
+
 # Requirements
 QuartzCore.framework
 
