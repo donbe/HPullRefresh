@@ -7,7 +7,7 @@ horizontal PullRefresh
 <img src="https://raw.github.com/donbe/HPullRefresh/master/horizontalPullRefreshDemo/QQ20130107-1.png" alt="HPullRefresh" title="HPullRefresh" style="display:block; margin: 10px auto 30px auto;" class="center">
 
 # Install
-You can use CocoaPods install to you project.
+You can use [CocoaPods](https://github.com/CocoaPods/CocoaPods) install to you project.
 
 or
 
