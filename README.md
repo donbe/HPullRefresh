@@ -24,4 +24,4 @@ QuartzCore.framework
 
 
 # Contact
-[link](http://weibo.com/donbe "归先人")
+[归先人](http://weibo.com/donbe)
