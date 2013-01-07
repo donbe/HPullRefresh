@@ -11,6 +11,9 @@ horizontal PullRefresh
 just a line code...
 
 ``` objective-c
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
     __block id blockself = self;
     [scrollview setContentSize:CGSizeMake(scrollview.bounds.size.width+1, scrollview.bounds.size.height)];
     [scrollview addHPullRefresh:^{
@@ -18,6 +21,11 @@ just a line code...
     }];
     
     [scrollview startLoading];
+}
+
+-(void)stopRefresh:(id)sender{
+    [scrollview stopLoading];
+}
 ```
 
 # Requirements
