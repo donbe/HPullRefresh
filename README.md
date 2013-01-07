@@ -8,7 +8,9 @@ horizontal PullRefresh
 
 # Install
 You can use cocoapod install to you project.
+
 or
+
 drag horizontalPullRefresh folder to you project ,and add the QuartzCore.framework.
 
 # How To Use
@@ -38,5 +40,6 @@ QuartzCore.framework
 
 # Contact
 [WeiBo](http://weibo.com/donbe)
+
 [Twitter](https://twitter.com/donbe520)
 
